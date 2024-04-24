@@ -1,5 +1,5 @@
 name: Welcome
 main: me.kkdevs.welcome.Loader
 version: "1.0"
-api: "1.0.9"
+api: "2.0.0"
 author: kkdevs
